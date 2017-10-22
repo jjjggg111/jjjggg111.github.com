@@ -134,7 +134,6 @@ nav a:visited{
 
 .top {
 	background-color: rgb(31,50,74);
-	position: fixed;
 	top: 0;
 	width: 100%;
 }
